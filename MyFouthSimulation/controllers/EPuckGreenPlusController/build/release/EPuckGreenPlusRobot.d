@@ -11,4 +11,7 @@ build/release/EPuckGreenPlusRobot.o: EPuckGreenPlusRobot.cpp \
  C:\Program\ Files\Webots/include/controller/cpp/webots/DistanceSensor.hpp \
  C:\Program\ Files\Webots/include/controller/cpp/webots/Emitter.hpp \
  C:\Program\ Files\Webots/include/controller/cpp/webots/Receiver.hpp \
- C:\Program\ Files\Webots/include/controller/cpp/webots/Keyboard.hpp
+ C:\Program\ Files\Webots/include/controller/cpp/webots/Keyboard.hpp \
+ C:\Program\ Files\Webots/include/controller/cpp/webots/Compass.hpp \
+ C:\Program\ Files\Webots/include/controller/cpp/webots/Lidar.hpp \
+ C:/Program\ Files/Webots/include/controller/c/webots/lidar_point.h
